@@ -43,7 +43,7 @@ Most work code is in private repositories.
 
 ### 📫 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/seni-yan-0000aa342/
+- 💼 LinkedIn: [my LinkedIn](https://www.linkedin.com/in/seni-yan-0000aa342/)
 - 📧 Email: akayoseiro@proton.me
 
 ---
