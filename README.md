@@ -1,16 +1,51 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**sueda-moi/sueda-moi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer based in Tokyo, Japan | Building modern web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Java, Spring Boot  
+**Database:** PostgreSQL, MySQL, Oracle  
+**Exploring:** Rust, Solana, VR Development
+
+---
+
+### 🚀 Highlighted Projects
+
+- **🎮 Air Combat (Rust)** - Self-taught Rust/Solana project, from zero to working prototype in 2 months
+- **🌐 Corporate Websites** - Production multilingual sites built with Next.js & TypeScript
+- **⚡ Energy Systems** - Exploring IoT and time-series data management (private work project)
+
+---
+
+### 💼 Professional Work
+
+5+ years developing production systems for financial services and enterprise clients.  
+Most work code is in private repositories.
+
+📍 Experience includes:
+- Banking systems serving 3M+ users
+- High-availability web applications
+- Full-stack development in regulated environments
+
+---
+
+### 🌱 Currently
+
+- 🇪🇸 Learning Spanish for Barcelona relocation (2026)
+- 🎮 Building VR/gaming projects
+- 💼 Open to remote opportunities
+
+---
+
+### 📫 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/seni-yan-0000aa342/
+- 📧 Email: akayoseiro@proton.me
+
+---
+
+**Available for remote/contract work**
