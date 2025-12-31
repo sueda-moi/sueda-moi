@@ -35,8 +35,6 @@ Most work code is in private repositories.
 
 ### 🌱 Currently
 
-- 🇪🇸 Learning Spanish for Barcelona relocation (2026)
-- 🎮 Building VR/gaming projects
 - 💼 Open to remote opportunities
 
 ---
